@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @nessort
-- 👀 I’m interested in IAM topic
-- 🌱 I’m currently learning IAM and SecOps
-- 💞️ I’m looking to collaborate on IAM topics
-- 📫 How to reach me www.nessort.com
+# Nessort
 
-<!---
-nessort/nessort is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Nessort is a technology-focused company specializing in **Identity & Access Management (IAM)** and **security-driven system design**.
+
+We help organizations design, integrate, and operate identity solutions that are **secure, scalable, and automation-ready**.
+
+## What We Do
+- Identity & Access Management (IAM)
+- Single Sign-On (SSO) & Federation
+- Identity integrations & automation
+- Security architecture & SecOps enablement
+
+## Our Focus
+- Practical IAM solutions, not theory
+- Clean integrations with real systems
+- Automation-first and security-by-design approaches
+
+## Collaboration
+We collaborate with engineering teams, security teams, and platform owners on IAM-related initiatives, proof-of-concepts, and production-grade solutions.
+
+## Contact
+🌐 https://www.nessort.com
